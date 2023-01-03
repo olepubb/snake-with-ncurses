@@ -11,7 +11,7 @@ Terminal snake game using ncurses and C.
 Clone the repository.
 
 ```
-git clone http|ssh
+git clone https://github.com/olepubb/snake-with-ncurses.git
 ```
 
 Change the compiler in the Makefile to use your C compiler (uses clang by default).
